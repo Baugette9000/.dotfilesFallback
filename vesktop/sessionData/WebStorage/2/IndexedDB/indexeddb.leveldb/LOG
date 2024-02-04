@@ -1,0 +1,15 @@
+2024/02/03-11:36:07.722 7a3 Reusing MANIFEST /home/cleo/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/02/03-11:36:07.723 7a3 Recovering log #19
+2024/02/03-11:36:07.724 7a3 Reusing old log /home/cleo/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb/000019.log 
+2024/02/03-11:36:18.571 78d Level-0 table #24: started
+2024/02/03-11:36:18.575 78d Level-0 table #24: 77577 bytes OK
+2024/02/03-11:36:18.579 78d Delete type=0 #19
+2024/02/03-11:36:18.580 78d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/03-11:36:18.580 78d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x80\xf3\xad\xd6\xd6xB\x00\x03\x00\x00\x00\x00\x00\x00R@' @ 2196 : 1
+2024/02/03-11:36:18.580 78d Compacting 1@1 + 1@2 files
+2024/02/03-11:36:18.582 78d Generated table #25@1: 58 keys, 1335 bytes
+2024/02/03-11:36:18.583 78d Compacted 1@1 + 1@2 files => 1335 bytes
+2024/02/03-11:36:18.586 78d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/03-11:36:18.586 78d Delete type=2 #21
+2024/02/03-11:36:18.586 78d Delete type=2 #24
+2024/02/03-11:36:18.586 78d Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x80\xf3\xad\xd6\xd6xB\x00\x03\x00\x00\x00\x00\x00\x00R@' @ 2196 : 1 .. (end); will stop at (end)

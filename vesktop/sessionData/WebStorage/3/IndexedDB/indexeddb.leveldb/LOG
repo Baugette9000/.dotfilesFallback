@@ -1,0 +1,7 @@
+2024/01/25-17:26:28.445 4fa Creating DB /home/cleo/.config/vesktop/sessionData/WebStorage/3/IndexedDB/indexeddb.leveldb since it was missing.
+2024/01/25-17:26:28.453 4fa Reusing MANIFEST /home/cleo/.config/vesktop/sessionData/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/25-17:26:28.477 519 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/25-18:53:46.996 4fb Level-0 table #5: started
+2024/01/25-18:53:46.999 4fb Level-0 table #5: 2703 bytes OK
+2024/01/25-18:53:47.002 4fb Delete type=0 #3
+2024/01/25-18:53:47.002 4fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

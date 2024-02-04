@@ -1,0 +1,25 @@
+2024/02/03-19:17:49.084 1a870 Reusing MANIFEST /home/cleo/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/02/03-19:17:49.090 1a870 Recovering log #4201
+2024/02/03-19:17:49.090 1a870 Level-0 table #4204: started
+2024/02/03-19:17:49.102 1a870 Level-0 table #4204: 47161 bytes OK
+2024/02/03-19:17:49.102 1a870 Recovering log #4203
+2024/02/03-19:17:49.102 1a870 Reusing old log /home/cleo/.config/vesktop/sessionData/Local Storage/leveldb/004203.log 
+2024/02/03-19:17:49.106 1a870 Delete type=0 #4201
+2024/02/03-19:19:49.738 1a872 Level-0 table #4206: started
+2024/02/03-19:19:49.749 1a872 Level-0 table #4206: 184730 bytes OK
+2024/02/03-19:19:49.753 1a872 Delete type=0 #4203
+2024/02/03-19:19:49.753 1a872 Compacting 4@0 + 1@1 files
+2024/02/03-19:19:49.772 1a872 Generated table #4207@0: 126 keys, 1309492 bytes
+2024/02/03-19:19:49.772 1a872 Compacted 4@0 + 1@1 files => 1309492 bytes
+2024/02/03-19:19:49.776 1a872 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/03-19:19:49.776 1a872 Delete type=2 #4206
+2024/02/03-19:19:49.776 1a872 Delete type=2 #4200
+2024/02/03-19:19:49.776 1a872 Delete type=2 #4204
+2024/02/03-19:19:49.776 1a872 Delete type=2 #4202
+2024/02/03-19:19:49.776 1a872 Delete type=2 #4198
+2024/02/03-19:30:49.738 1a872 Level-0 table #4209: started
+2024/02/03-19:30:49.748 1a872 Level-0 table #4209: 49632 bytes OK
+2024/02/03-19:30:49.752 1a872 Delete type=0 #4205
+2024/02/03-19:38:49.738 1a872 Level-0 table #4211: started
+2024/02/03-19:38:49.749 1a872 Level-0 table #4211: 44133 bytes OK
+2024/02/03-19:38:49.752 1a872 Delete type=0 #4208
